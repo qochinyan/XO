@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/XO/static/css/main.856a6399.css",
+    "main.js": "/XO/static/js/main.17cf24b5.js",
+    "static/media/Izzamuzzic-taboo.mp3": "/XO/static/media/Izzamuzzic-taboo.98067948035024a514bc.mp3",
+    "static/media/Background.jpg": "/XO/static/media/Background.7ae1b084f5b43ce83b49.jpg",
+    "static/media/x.jpg": "/XO/static/media/x.5c71e064dedc359a183e.jpg",
+    "static/media/O.webp": "/XO/static/media/O.dbddd494cc368f5b8325.webp",
+    "index.html": "/XO/index.html",
+    "main.856a6399.css.map": "/XO/static/css/main.856a6399.css.map",
+    "main.17cf24b5.js.map": "/XO/static/js/main.17cf24b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.856a6399.css",
+    "static/js/main.17cf24b5.js"
+  ]
+}
